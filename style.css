@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+*{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body{
+    background-color: #F9E7B2;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+}
